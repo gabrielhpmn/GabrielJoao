@@ -1,0 +1,101 @@
+body{
+	background-image: linear-gradient(to right, white, rgb(45, 146, 42));
+}
+.nave{
+
+	background-image: url("img/fundo2.png");
+
+	padding: 150px 150px;
+
+}
+li{
+	display: inline-block;
+	padding: 10px;
+	margin-top: 25px;
+	border: solid white 2px;
+	border-radius: 5px;
+	background-color: gray;
+	color: white;
+}
+li:hover{
+	
+	border: solid yellow 3px;
+	padding: 18px 45px;
+	font-size: 22px;
+	transition: 1s;
+
+}
+h1{
+	text-align: center;
+}
+h1:before, h1:after{
+	content: "";
+	width: 90px;
+	height: 4px;
+	background-color: yellow;
+	display: block;
+	margin: 15px auto;
+
+}
+}
+div{
+	width: 60%;
+}
+.nave{
+
+	background-image: url("img/fundo2.png");
+
+	padding: 150px 150px;
+
+}
+li{
+	display: inline-block;
+	padding: 10px;
+	margin-top: 25px;
+	border: solid white 2px;
+	border-radius: 5px;
+	background-color: gray;
+	color: white;
+}
+li:hover{
+	
+	border: solid yellow 3px;
+	padding: 18px 45px;
+	font-size: 22px;
+	transition: 1s;
+
+}
+h1{
+	text-align: center;
+}
+h1:before, h1:after{
+	content: "";
+	width: 90px;
+	height: 4px;
+	background-color: yellow;
+	display: block;
+	margin: 15px auto;
+
+}
+}
+div{
+	width: 60%;
+}
+.video{
+	width: 80%;
+	margin: 0 auto;
+	background-color:white;
+	padding: 10px;
+	border-radius: 5px;
+	font-family: arial;
+	border: solid yellow 2px;
+}
+.text1{
+	width: 80%;
+	margin: 0 auto;
+	background-color:white;
+	padding: 10px;
+	border-radius: 5px;
+	font-family: arial;
+	border: solid yellow 2px;
+}

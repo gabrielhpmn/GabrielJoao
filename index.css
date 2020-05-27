@@ -1,0 +1,67 @@
+body{
+	background-image: linear-gradient(to right, white, rgb(45, 146, 42));
+	z-index: 999;
+}
+.logo{
+	width: 8%;
+	float:left;
+	margin-top: -10%;
+}
+
+
+.nave{
+
+	background-image: url("img/fundo2.jpg");
+
+	padding: 150px 150px;
+
+}
+li{
+	display: inline-block;
+	padding: 10px;
+	margin-top: 25px;
+	border: solid white 2px;
+	border-radius: 5px;
+	background-color: gray;
+	color: white;
+}
+li:hover{
+	
+	border: solid  yellow 3px;
+	padding: 18px 45px;
+	font-size: 22px;
+	transition: 1s;
+
+}
+h1{
+	text-align: center;
+}
+h1:before, h1:after{
+	content: "";
+	width: 90px;
+	height: 4px;
+	background-color: yellow;
+	display: block;
+	margin: 15px auto;
+
+}
+}
+div{
+	width: 60%;
+}
+
+/*CARROSSEL*/
+.carrossel{
+	width: 90%;
+	border: solid rgb(225, 228, 40) 3px;
+	margin: 0 auto;
+	border-radius: 10px;
+	padding: 10px;
+}
+.carrossel:hover{
+	width: 97%;
+	border: solid rgb(45, 146, 42) 3px;
+	transition: 1s;
+
+
+}
